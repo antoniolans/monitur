@@ -1,6 +1,7 @@
 
 
 {  
+  "linegraphdata": [
   {"day":"July 01", "temperature":"50"},  
   {"day":"July 02", "temperature":"60"},  
   {"day":"July 03", "temperature":"72"},  
@@ -11,4 +12,5 @@
   {"day":"July 08", "temperature":"60"},  
   {"day":"July 09", "temperature":"58"},  
   {"day":"July 10", "temperature":"55"}  
+ ]
 }  
