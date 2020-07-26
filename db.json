@@ -1,14 +1,14 @@
 {  
   "linegraphdata": [
-  {"July 01", "50"},  
-  {"July 02", "60"},  
-  {"July 03", "72"},  
-  {"July 04", "80"},  
-  {"July 05", "88"},  
-  {"July 06", "97"},  
-  {"July 07", "70"},  
-  {"July 08", "60"},  
-  {"July 09", "58"},  
-  {"July 10", "55"}  
+  {"day":"July 01", "temperature":"50"},  
+  {"day":"July 02", "temperature":"60"},  
+  {"day":"July 03", "temperature":"72"},  
+  {"day":"July 04", "temperature":"80"},  
+  {"day":"July 05", "temperature":"88"},  
+  {"day":"July 06", "temperature":"97"},  
+  {"day":"July 07", "temperature":"70"},  
+  {"day":"July 08", "temperature":"60"},  
+  {"day":"July 09", "temperature":"58"},  
+  {"day":"July 10", "temperature":"55"}  
  ]
-} 
+}  
