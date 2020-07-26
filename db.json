@@ -1,6 +1,6 @@
 
 
-{"linegraphdata":[  
+{  
   {"day":"July 01", "temperature":"50"},  
   {"day":"Bob", "temperature":"60"},  
   {"day":"Bob", "temperature":"72"},  
@@ -11,4 +11,4 @@
   {"day":"Bob", "temperature":"60"},  
   {"day":"Bob", "temperature":"58"},  
   {"day":"Jai", "temperature":"55"}  
-]}  
+}  
