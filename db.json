@@ -2,13 +2,13 @@
 
 {  
   {"day":"July 01", "temperature":"50"},  
-  {"day":"Bob", "temperature":"60"},  
-  {"day":"Bob", "temperature":"72"},  
-  {"day":"Bob", "temperature":"80"},  
-  {"day":"Bob", "temperature":"88"},  
-  {"day":"Bob", "temperature":"97"},  
-  {"day":"Bob", "temperature":"70"},  
-  {"day":"Bob", "temperature":"60"},  
-  {"day":"Bob", "temperature":"58"},  
-  {"day":"Jai", "temperature":"55"}  
+  {"day":"July 02", "temperature":"60"},  
+  {"day":"July 03", "temperature":"72"},  
+  {"day":"July 04", "temperature":"80"},  
+  {"day":"July 05", "temperature":"88"},  
+  {"day":"July 06", "temperature":"97"},  
+  {"day":"July 07", "temperature":"70"},  
+  {"day":"July 08", "temperature":"60"},  
+  {"day":"July 09", "temperature":"58"},  
+  {"day":"July 10", "temperature":"55"}  
 }  
